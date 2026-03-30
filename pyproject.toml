@@ -1,0 +1,14 @@
+[project]
+name = "ai-harness"
+version = "0.1.0"
+description = "Multi-Agent Research and Development Team System"
+requires-python = ">=3.10"
+dependencies = [
+    "anthropic>=0.7.0",
+    "pyyaml>=6.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=7.0",
+]
