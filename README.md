@@ -30,7 +30,7 @@ AgentTeams - 多Agent研发团队系统
 ## 项目结构
 
 ```
-ai-harness/
+agent-teams/
 ├── agents/              # Agent角色定义
 ├── engine/              # 工作流和决策引擎
 ├── storage/             # 数据存储层
